@@ -22,3 +22,4 @@ double busca_ternaria(double inicio, double fim, double precisao = 1e-9) {
     // Quando o intervalo encolher o suficiente, qualquer um dos lados é a resposta
     return (inicio + fim) / 2.0;
 }
+
